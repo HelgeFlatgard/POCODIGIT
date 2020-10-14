@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="8zLUh16CDvITMDtZ6tx4Ew==" exportKeySalt="8aea692e-c369-49bb-8545-5a048cf89702" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="kXlPirJ0t7/AKnN7epbbkg==" exportKeySalt="8704e204-8ef3-4bc0-8a5c-ca1f651e3e50" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpConnect">
 		<Field name="AuthenMethod" type="java.lang.String">null</Field>
 	<Field name="BatchUpdateSize" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
@@ -70,18 +70,18 @@
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
 		<Field name="Type" type="java.lang.String"><![CDATA[SnpPschema]]></Field>
 	<Field name="SubType" type="java.lang.String">null</Field>
-	<Field name="Name" type="java.lang.String"><![CDATA[orcl_tst.POCTST_HR]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[orcl_prd.POCPRD_HR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[5bb33106-d59f-4963-a533-d5864d727cbc]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[f2f8e9f5cda4fddcd2b16f97263fe645f4b7e946]]></Field>
-	<Field name="Path" type="java.lang.String"><![CDATA[PSC_orcl_tst_POCTST_HR.xml]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[c87f35a6ad16369d8bc3ce00a1fcf295c5cd1093]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[PSC_orcl_prd_POCPRD_HR.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
 		<Field name="Type" type="java.lang.String"><![CDATA[SnpPschema]]></Field>
 	<Field name="SubType" type="java.lang.String">null</Field>
-	<Field name="Name" type="java.lang.String"><![CDATA[orcl_tst.POCTST_SI_HR]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[orcl_prd.POCPRD_SI_HR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[aed561f2-728b-4d27-868f-3f3a75a10b35]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[f2f8e9f5cda4fddcd2b16f97263fe645f4b7e946]]></Field>
-	<Field name="Path" type="java.lang.String"><![CDATA[PSC_orcl_tst_POCTST_SI_HR.xml]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[cc8bd998c5263f91cf93db25d59ff52572627c3f]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[PSC_orcl_prd_POCPRD_SI_HR.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
 		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TECHNO.24]]></Field>
