@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="7d1pbZMCIPjAtvHtYai8QA==" exportKeySalt="90ea508f-669a-4a34-9c27-b85f8e3b1ff0" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="TQAI6Krm2YGCvc2vAtCuqg==" exportKeySalt="16af6e48-7096-457a-ac6d-25224b548859" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpTechno">
 		<Field name="CatalogTerm" type="java.lang.String">null</Field>
 	<Field name="ColAliasWord" type="java.lang.String"><![CDATA[AS]]></Field>
@@ -73,7 +73,7 @@
 	<Field name="JoinOuterLoc" type="java.lang.String"><![CDATA[C]]></Field>
 	<Field name="JoinOuterSide" type="java.lang.String"><![CDATA[O]]></Field>
 	<Field name="JoinRightOut" type="java.lang.String"><![CDATA[RIGHT OUTER JOIN]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2020-10-14 16:38:41.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2020-10-14 16:45:30.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUNOPSIS_INSTALL]]></Field>
 	<Field name="LocObjPattern" type="java.lang.String"><![CDATA[%SCHEMA.%OBJECT]]></Field>
 	<Field name="LocSeqCurrPattern" type="java.lang.String"><![CDATA[%SCHEMA.%OBJECT.currval]]></Field>
@@ -26917,7 +26917,7 @@ respect to a given sorting specification.]]></Field>
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[orcl_dev]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[c323f379-55c7-44fe-be16-3e558b746d99]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[96f2fbf22e853cd0a63afbc6aaf7848e7db51629]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[012aa1f934cda03de25053dc4f8181ab429bb75a]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Physical Architecture/orcl_dev/CONN_orcl_dev.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
@@ -26933,8 +26933,16 @@ respect to a given sorting specification.]]></Field>
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[orcl_prd]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[7308fe5e-c70e-4ebb-bd56-853883771b8a]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[9df6c8aa04cfcb57811d7b9f25548c756c86d428]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[5edda1142e32bdadd07f8bcc0e8d1e61d0dca028]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Physical Architecture/orcl_prd/CONN_orcl_prd.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpLschema]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[HR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[3760c594-0eca-47b5-833a-09a6841da6e3]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f9d613daf52533ae73492a43ff4a158e69c815bf]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Logical Architecture/LSC_HR.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
 		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_MTXT.74]]></Field>
