@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="f/wogPr83AzrNmhvWfY5IQ==" exportKeySalt="66e98588-b5ca-4fb1-8ea9-45c787bfe9c5" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="sglOmk5hiB5uI1ibnjVglA==" exportKeySalt="c0c9815d-c2c5-4b0c-91bf-d452a4ff96f1" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpConnect">
 		<Field name="AuthenMethod" type="java.lang.String">null</Field>
 	<Field name="BatchUpdateSize" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
@@ -10,7 +10,7 @@
 	<Field name="ConName" type="java.lang.String"><![CDATA[MEMORY_ENGINE]]></Field>
 	<Field name="DservName" type="java.lang.String">null</Field>
 	<Field name="FetchArrayServ" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2020-10-13 17:10:04.0]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2020-10-27 08:52:54.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUNOPSIS_INSTALL]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[7289f03e-0ca6-3787-9268-c74d5e8aaea5]]></Field>
 	<Field name="HadoopJobTrackerUri" type="java.lang.String">null</Field>
@@ -37,7 +37,7 @@
 	<Field name="JndiPwd" type="java.lang.String">null</Field>
 	<Field name="JndiRessource" type="java.lang.String">null</Field>
 	<Field name="JndiUser" type="java.lang.String">null</Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2020-10-13 17:10:04.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2020-10-27 08:52:54.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUNOPSIS_INSTALL]]></Field>
 	<Field name="OggInstallPath" type="java.lang.String">null</Field>
 	<Field name="OnConApplyCond" type="java.lang.String">null</Field>
@@ -72,7 +72,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[MEMORY_ENGINE_Default]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[61149740-0c29-32c0-92e5-fdb5696142c8]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[3b716419b773661bfa9653216f4a0056fcabb86c]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[3b601249971f9a4569bd228eaa5ed3d72beb8645]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[PSC_MEMORY_ENGINE_Default.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
