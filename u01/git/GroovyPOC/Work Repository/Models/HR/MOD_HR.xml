@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="CKw1ghSkb2duHs+FMLY3kg==" exportKeySalt="bda51d75-153d-4554-a472-67cbd13a651a" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="HZ5FyhEk1QDqiX0PUi08uQ==" exportKeySalt="724e3921-2a82-4f5d-b654-b7495181baa9" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpModel">
 		<Field name="AliasLength" type="com.sunopsis.sql.DbInt"><![CDATA[35]]></Field>
 	<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
 	<Field name="CodMod" type="java.lang.String"><![CDATA[HR]]></Field>
 	<Field name="DefActionGrp" type="java.lang.String">null</Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2020-10-14 17:00:48.0]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2020-10-27 09:17:10.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[9dbebef2-7b25-4954-9f94-901167f06a58]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndChange" type="java.lang.String">null</Field>
 	<Field name="IndEvoJdbc" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IndJrnMethod" type="java.lang.String"><![CDATA[S]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IDefFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IGenericModel" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IModFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITrtKcm" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITrtKdm" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -25,7 +25,7 @@
 	<Field name="ITrtSkm" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITxtMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="LagentName" type="java.lang.String">null</Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2020-10-14 17:01:02.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2020-10-27 18:42:49.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LschemaName" type="java.lang.String"><![CDATA[HR]]></Field>
 	<Field name="ModName" type="java.lang.String"><![CDATA[HR]]></Field>
@@ -48,7 +48,7 @@
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
 		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[2100]]></Field>
-	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[4]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[5]]></Field>
 	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[HR]]></Field>
 	<Field name="Description" type="java.lang.String"><![CDATA[SNP_TECHNO : Oracle #SNP_LSCHEMA : HR]]></Field>
  <Field name="GlobalId" type="java.lang.String"><![CDATA[3760c594-0eca-47b5-833a-09a6841da6e3]]></Field>
@@ -65,7 +65,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[Global]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[4504f5ac-341c-412e-b8e4-cec0a727e0a1]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[6ac79d2ad5167658d1778f679591a09024763066]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[9a8a3c6b8b72ec6b6bc842383939826293932ba1]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Global/SMOD_Global.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.DwgExportSummary">
